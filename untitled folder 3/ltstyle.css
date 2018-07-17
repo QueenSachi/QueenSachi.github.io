@@ -1,0 +1,38 @@
+
+h3 {color:white;
+}
+
+.letter {
+
+}
+
+.letterText {
+    position: absolute;
+    top: 10px;
+    left:80px;
+}
+
+.likes {
+  position: absolute;
+  top: 40px;
+  left:80px;
+
+}
+
+.likesList {
+  position: absolute;
+  top: 60px;
+  left: 40px;
+
+}
+.body {
+  position: absolute;
+  top: 150px;
+  left: 60px;}
+.body2{  position: absolute;
+  top: 360px;
+  left: 60px;}
+  .para{
+    width: 650px;
+
+  }
