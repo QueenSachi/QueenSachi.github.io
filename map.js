@@ -48,6 +48,11 @@ function panToLocation(){
 	if(countryRequest.readyState != 4 || countryRequest.status != 200 || countryRequest.responseTest ===""){
 		window.console.error("Request had an Error!")
 	}
+	function panToFavorite(){
+		view.animate({
+		
+		})
+	}
 
 	alert("Ready State " + countryRequest.readyState);
   alert("Status " + countryRequest.status);
